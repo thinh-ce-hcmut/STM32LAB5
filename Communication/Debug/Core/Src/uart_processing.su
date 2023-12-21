@@ -1,0 +1,2 @@
+uart_processing.c:38:6:command_parser_fsm	16	static
+uart_processing.c:60:6:uart_communiation_fsm	8	static
